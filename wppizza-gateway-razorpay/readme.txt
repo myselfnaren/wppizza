@@ -18,6 +18,5 @@ WPPizza Gateway - Razorpay Gateway for WPPizza - Enables Razorpay Payments for o
 
 1.0  
 * Initial Release  
-24 Oct 2019  
-
+23 Oct 2019  
 

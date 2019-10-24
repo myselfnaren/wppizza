@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPPizza\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-24 22:31+0100\n"
+"PO-Revision-Date: 2017-08-24 22:31+0100\n"
+"Last-Translator: ollybach <dev@wp-pizza.com>\n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../v3x.php:125
+#| msgid ""
+#| "For additional setup information and requirements <a href=\"https://www."
+#| "wp-pizza.com/downloads/wppizza-payulatam-gateway/\" target=\"_blank"
+#| "\">please see here</a>"
+msgid ""
+"For additional setup information and requirements <a href=\"https://www.wp-"
+"pizza.com/downloads/wppizza-dummypayhpp-gateway/\" target=\"_blank\">please "
+"see here</a>"
+msgstr ""
+"For additional setup information and requirements <a href=\"https://www.wp-"
+"pizza.com/downloads/wppizza-dummypayhpp-gateway/\" target=\"_blank\">please "
+"see here</a>"
+
+#: ../v3x.php:528 ../v3x.php:530
+msgid "Merchant ID"
+msgstr "Merchant ID"
+
+#: ../v3x.php:529
+#| msgid "Merchant ID"
+msgid "Your Merchant ID"
+msgstr "Your Merchant ID"
+
+#: ../v3x.php:529 ../v3x.php:541 ../v3x.php:554
+msgid "required"
+msgstr "required"
+
+#: ../v3x.php:540 ../v3x.php:542
+msgid "Account ID"
+msgstr "Account ID"
+
+#: ../v3x.php:541
+#| msgid "Account ID"
+msgid "Your Account ID"
+msgstr "Your Account ID"
+
+#: ../v3x.php:553 ../v3x.php:555
+msgid "Api Key"
+msgstr "Api Key"
+
+#: ../v3x.php:554
+#| msgid "Api Key"
+msgid "Your Api Key"
+msgstr "Your Api Key"
+
+#: ../v3x.php:566
+msgid "Test Mode ? (Y/N)"
+msgstr "Test Mode ? (Y/N)"
+
+#: ../v3x.php:567
+msgid "check to use test mode"
+msgstr "check to use test mode"
+
+#: ../v3x.php:580
+msgid "form fields"
+msgstr "form fields"
+
+#: ../v3x.php:581
+msgid "First Name"
+msgstr "First Name"
+
+#: ../v3x.php:582
+msgid "Last Name"
+msgstr "Last Name"
+
+#: ../v3x.php:583
+msgid "Full Name"
+msgstr "Full Name"
+
+#: ../v3x.php:584
+msgid "Email"
+msgstr "Email"
+
+#: ../v3x.php:585
+msgid "Address"
+msgstr "Address"
+
+#: ../v3x.php:586
+msgid "City"
+msgstr "City"
+
+#: ../v3x.php:587
+msgid "Zipcode"
+msgstr "Zipcode"
+
+#: ../v3x.php:588
+msgid "Phone"
+msgstr "Phone"
+
+#: ../v3x.php:591
+msgid "OPTIONAL BUT RECOMMENDED : Your order form fields"
+msgstr "OPTIONAL BUT RECOMMENDED : Your order form fields"
+
+#: ../v3x.php:592
+msgid ""
+"Your enabled order form fields can be used to pre-populate the payment page "
+"(if applicable). Select which of your formfields applies to which payment "
+"page formfield (if any)."
+msgstr ""
+"Your enabled order form fields can be used to pre-populate the payment page "
+"(if applicable). Select which of your formfields applies to which payment "
+"page formfield (if any)."

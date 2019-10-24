@@ -1,0 +1,4 @@
+# making sure access to the ipn.php is always granted in case other access rules elsewhere restrict things
+Order allow,deny
+Allow from all
+Satisfy any
